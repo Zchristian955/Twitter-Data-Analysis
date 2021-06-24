@@ -91,3 +91,9 @@ class Clean_Tweets:
         
         df = df.drop(index="non english tweets ",columns='lang')      
         return df
+
+    
+    
+    
+    
+    
