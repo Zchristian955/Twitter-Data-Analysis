@@ -18,5 +18,5 @@ cache: pip
 install: "pip install -r requirements.text
 
 # Command to run tests, e.g. python setup.py test
-script:  python clean_tweets_dataframe.py
+script:  python  clean_tweets_dataframe.py
 
