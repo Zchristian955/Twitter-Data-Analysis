@@ -1,3 +1,7 @@
+
+import unittest
+import centurySign
+
 class Clean_Tweets:
     
     import pandas as pd
