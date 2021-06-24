@@ -15,7 +15,7 @@ install:
 # cache installation
 cache: pip
 
-install: "pip install -r requirement.text
+install: "pip install -r requirements.text
 
 # Command to run tests, e.g. python setup.py test
 script: 
